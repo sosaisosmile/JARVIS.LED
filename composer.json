@@ -1,21 +1,5 @@
 {
-    "name" : " bluerhinos/phpmqtt " ,
-    "description" : " Simple MQTT Class " ,
-    "ใบอนุญาต" : " BSD " ,
-    "type" : "ห้องสมุด" ,
-    "ผู้เขียน" : [
-        {
-            "name" : "แอนดรูว์ มิลสเต็ด" ,
-            "email" : " andrew@bluerhinos.co.uk "
-        }
-    ],
-    "ความเสถียรขั้นต่ำ" : " dev " ,
-    "ต้องการ" : {
-        "php" : " >=7.2 "
-    },
-    "ออโต้โหลด" : {
-        "psr-4" : {
-            "บลูไรโนส\\ " : " ./ "
-        }
-    }
+   "require": {
+       "php": "^7.1.0"
+   }
 }
